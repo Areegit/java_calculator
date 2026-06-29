@@ -1,5 +1,5 @@
-# java_calculator
-A simple calculator built in java to practice methods.
+# Java_calculator
+A simple calculator built in Java to practice methods.
 
 ## Features 
 -Addition
@@ -10,11 +10,13 @@ A simple calculator built in java to practice methods.
 
 -Division
 
-### Concepts use 
+## Concepts use 
 -Java methods 
 
 -Scanner
 
--if=else statements
+-if-else statements
 
 -Return values
+## Purpose
+This project was created to practice Java methods and basic programming concepts.
